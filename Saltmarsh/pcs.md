@@ -17,7 +17,7 @@ wrapped in backticks for easy visibility/searchability
 - ### next time some shit happens it goes under this header
 # `Guy` Valentine, a pink? cat
 - wasn't there someone else...
-- has a deity ??
+- has a deity, `The Raven Queen`
 - looking for long lost mom
 # `Kell` Basa, a divorced dwarf
 - has a bitch ex wife
