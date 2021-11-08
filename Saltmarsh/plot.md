@@ -38,8 +38,7 @@ necromancer island with nice garden???? seems cool
 - make our way to the artist formerly known as the abbey and town (its been slash and burned)
 - `guy` solves the riddle and the door opens
 ## we enter the `[undercroft]`
-- immediately try to fight, get clapped by worshipper of `Oghma`
-- will/nate are grump
+- immediately try to fight, get clapped by worshippers of `Oghma`
 - get captured by the cult
 ## we explore the `[crypt]`
 - `exo` jumps in a pit of acid
