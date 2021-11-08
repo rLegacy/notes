@@ -20,7 +20,7 @@ NPC's grouped by faction/place first encountered
 - `Pokey` LaFarge
     - that's dad
     - on the city council?
-- Gillian `Primewater`
+- Gillian `primwater`
     - big bad business boss
     - owns the `[Blind Isle Inn]`
 ## Dwarves
@@ -37,11 +37,14 @@ NPC's grouped by faction/place first encountered
     - boss of the elves?
 # Residents of `[Abbey Isle]` 
 ## Cult of Oghma
-- ??
+- `Oliver`
     - defacto leader after most of the top levels of management were eliminated by pirates
-- some assholes
+- `Mierka`
+    - doesn't like `Oliver` or the way he does things
+    - is willing to help us in exchange for passage off isle
+    - stabbed `exo` a bazillion times, fuck this bitch
 ## Other
-- the homie trying who broke us out of jail
+- `Patrick Swin`
     - was hired to train the residents in defense right before pirates attacked
     - made a deal to free us in exchange for passage off isle
 
