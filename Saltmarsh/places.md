@@ -33,6 +33,6 @@ wrapped in backticks and brackets for easy visibility/searchability
     - solved riddle to open door
     - seems to be the basement of the now burned down abbey
     - ran in to a group of fuckbois
-    - they worship some ass hole deity focused on knowledge
+    - they worship some ass hole deity (`Oghma`) focused on knowledge
     - ### `[Crypt]`
         - spooky hidden crypt in "undercroft", hopefully find source of undead army and some treasure
