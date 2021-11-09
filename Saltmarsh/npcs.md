@@ -47,4 +47,6 @@ NPC's grouped by faction/place first encountered
 - `Patrick Swin`
     - was hired to train the residents in defense right before pirates attacked
     - made a deal to free us in exchange for passage off isle
+    - when he first arrived and met `beto` he mentioned it was more the study of a magical item, than necormancy
+
 
