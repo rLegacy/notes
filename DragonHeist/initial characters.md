@@ -62,26 +62,26 @@ halfling +2(dex)/+1(wis) -> +2(con)/+1(dex)
     - When you wear medium armor, you can add 3, rather than 2, to your AC if you have a Dexterity of 16 or higher.
 
 ## proficiencies:
-- armor: 
+- armor:
     - light
     - medium
     - shields
-- weapons: 
+- weapons:
     - simple
     - martial
-- skills: (choose 1, prof bonus is doubled. deft explorer -> canny)
+- skills:
     - Athletics
     - Survival
     - Perception (doubled prof bonus, canny)
     - Nature
     - Animal Handling
     - Stealth
-- saving throws: 
+- saving throws:
     - str
     - dex
-- tools: 
+- tools:
     - Güiro (fancy clacker frog)
-- languages: 
+- languages:
     - Common
     - Halfling
     - Gnomish <??>
