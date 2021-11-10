@@ -64,6 +64,9 @@ NPC's grouped by faction/place first encountered
 
             Mr. Swin arrived today, and I fear I may have been a little too loose lipped with our purpose here. I do always feel the need to correct someone when they call us necromancers though. We are all aware of the stigma it holds, and that it is illegal throughout the empire. That said, he did not bat an eye. I suppose that’s a skill a mercenary must hold, composure. 
             ```
+- `Kyla`
+    - young half elf
+
 
 ## Other
 - Patrick "Portly" `Swin`
