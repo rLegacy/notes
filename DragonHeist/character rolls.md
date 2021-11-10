@@ -80,7 +80,7 @@ halfling +2(dex)/+1(wis) -> +2(con)/+1(dex)
     - str
     - dex
 - tools: 
-    - drums (wood tok, block, scraper, etc)
+    - Güiro (fancy clacker frog)
 - languages: 
     - Common
     - Halfling
