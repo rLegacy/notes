@@ -101,7 +101,7 @@ Siblings:
 - a longbow, quiver and 20 arrows
 
 ## backstory:
-oldest of 7 siblings in a low class, working family, Penny was defacto parent for her first 28 some odd years of life. when the youngest was finally old enough to fend for himself, she left for the woods, taking a job as a forester.
+oldest of 7 siblings in a low class, working family (own an inn on the outskirts of waterdeep), Penny was defacto parent for her first 28 some odd years of life. when the youngest was finally old enough to fend for himself, she left for the woods, taking a job as a forester.
 
 after this, she'd go years without seeing her family, or anyone other than the small band of foresters who maintained the great forests outside of their hometown. she loved the quiet of the wood, the beautiful complexity of an ecosystem she was far more attuned with than someone passing through. the simplicity when compared to the chaos of her old home life was all she needed to be happy and just being able to witness the beauty of the cycle of life was as enriching as anything she could imagine.
 
