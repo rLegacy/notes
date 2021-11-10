@@ -30,18 +30,6 @@ outlander ghostwise halfling ranger
 
 halfling +2(dex)/+1(wis) -> +2(con)/+1(dex)
 
-Parents:
-- Paul
-- Pauladine
-
-Siblings:
-- Piper
-- Petunia
-- Perseus
-- Precious
-- Pascal
-- Pearson
-
 ## attributes
 - str: 17
 - dex: 15 + 2
@@ -55,7 +43,7 @@ Siblings:
 - speed: 25
 - height: ~3ft
 - weight: ~40lbs
-- age: 35
+- age: ~35
 
 ## traits
 - lucky: 
@@ -84,23 +72,44 @@ Siblings:
 - skills: (choose 1, prof bonus is doubled. deft explorer -> canny)
     - Athletics
     - Survival
-    - choose 3 from Animal Handling, Insight, Investigation, Nature, Perception, Stealth
+    - Perception (doubled prof bonus, canny)
+    - Nature
+    - Animal Handling
 - saving throws: str, dex
-- tools: One type of musical instrument
+- tools: flute
 - languages: 
     - Common
     - Halfling
-    - One of your choice
-    - 2 additional languages (deft explorer -> canny)
+    - Gnomish <??>
+    - Elvish
+    - Tone of thought to animals
 
 ## equipment:
-- A staff, a hunting trap, a trophy from an animal you killed, a set of traveler's clothes, and a pouch containing 10gp
+- staff
+- hunting trap
+- trophy from an animal you killed (stag antlers)
+- set of traveler's clothes
+- pouch containing 10gp
 - scale mail
 - two short swords (ask if can replace w/ circle "battle axe")
-- a dungeoneer's pack or explorer's pack
-- a longbow, quiver and 20 arrows
+- dungeoneer's pack or explorer's pack
+- longbow, quiver and 20 
+- dagger of whittling
+    - A finely made halfling dagger, once attuned to, this dagger can whittle one small object once per day without the use of it's master.
 
 ## backstory:
+Parents:
+- Paul
+- Pauladine
+
+Siblings:
+- Piper
+- Petunia
+- Perseus
+- Precious
+- Pascal
+- Pearson
+
 oldest of 7 siblings in a low class, working family (own an inn on the outskirts of waterdeep), Penny was defacto parent for her first 28 some odd years of life. when the youngest was finally old enough to fend for himself, she left for the woods, taking a job as a forester.
 
 after this, she'd go years without seeing her family, or anyone other than the small band of foresters who maintained the great forests outside of their hometown. she loved the quiet of the wood, the beautiful complexity of an ecosystem she was far more attuned with than someone passing through. the simplicity when compared to the chaos of her old home life was all she needed to be happy and just being able to witness the beauty of the cycle of life was as enriching as anything she could imagine.
