@@ -43,4 +43,7 @@ necromancer island with nice garden???? seems cool
 ## we explore the `[crypt]`
 - `exo` jumps in a pit of acid
     - `guy` jumps in to save him <3
+- we find a journal written by `Beto` Eribaun describing the "Animator's Stone" and alchemical devices
+    - we find a strange flask with many spouts
+- we find a room with a large jade dragon statue
 
