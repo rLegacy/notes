@@ -75,6 +75,7 @@ halfling +2(dex)/+1(wis) -> +2(con)/+1(dex)
     - Perception (doubled prof bonus, canny)
     - Nature
     - Animal Handling
+    - Stealth
 - saving throws: 
     - str
     - dex
@@ -85,7 +86,6 @@ halfling +2(dex)/+1(wis) -> +2(con)/+1(dex)
     - Halfling
     - Gnomish <??>
     - Elvish
-    - Tone of thought to animals
 
 ## equipment:
 - staff
