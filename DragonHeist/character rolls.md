@@ -30,8 +30,6 @@ outlander ghostwise halfling ranger
 
 halfling +2(dex)/+1(wis) -> +2(con)/+1(dex)
 
-oldest of 7 siblings in a low class, working family, Penny was defacto parent for her first 28 some odd years of life. when the youngest was finally old enough to feed himself, she left for the woods, spending years at a time away from the civilized world.
-
 Parents:
 - Paul
 - Pauladine
@@ -46,10 +44,10 @@ Siblings:
 
 ## attributes
 - str: 17
-- dex: 15 + 1
-- const: 13 + 2
+- dex: 15 + 2
+- const: 13 
 - int: 10
-- wis: 15 
+- wis: 15 + 1
 - cha: 12
 
 ## stats
@@ -57,6 +55,7 @@ Siblings:
 - speed: 25
 - height: ~3ft
 - weight: ~40lbs
+- age: 35
 
 ## traits
 - lucky: 
@@ -100,3 +99,18 @@ Siblings:
 - two short swords (ask if can replace w/ circle "battle axe")
 - a dungeoneer's pack or explorer's pack
 - a longbow, quiver and 20 arrows
+
+## backstory:
+oldest of 7 siblings in a low class, working family, Penny was defacto parent for her first 28 some odd years of life. when the youngest was finally old enough to fend for himself, she left for the woods, taking a job as a forester.
+
+after this, she'd go years without seeing her family, or anyone other than the small band of foresters who maintained the great forests outside of their hometown. she loved the quiet of the wood, the beautiful complexity of an ecosystem she was far more attuned with than someone passing through. the simplicity when compared to the chaos of her old home life was all she needed to be happy and just being able to witness the beauty of the cycle of life was as enriching as anything she could imagine.
+
+however, the last job was different... her first stint on firewatch... she'd spent the last 18 months in a "cabin" that was more of a glorified tree stand, completely alone.
+
+she'd begun to go mad about 9 months in, the joy she got from the quiet of the forest slowly drowned out by the torment of her own mind. never one to run from a fight, she withdrew into herself and focused all of her time on observing and addressing her deepest thoughts, fears, and emotions.
+
+during this time, she began to project her thoughts to other creatures, who could never understand what she was saying, but often a soothing tone was enough to calm a spooked deer long enough for a shot from her long bow to take it down, ensuring she could survive out here alone a little longer. (she does not know it works on people or that actual words are communicated)
+
+her focus on self improvement proved fruitful, as she trained both her mind and body, achieving incredible results. however... she wasn't in the woods to focus on herself, and her pre-occupation would lead to disaster. she had missed the signs of improper undergrowth maintenance during her rounds and soon the fires would engulf a small village of gnomes(?). there were no survivors, hell there wasn't any sign a settlement had been here, just scorch and ash.
+
+after that, she returned to the ranger station, her mind silent and unresponsive (disassociated). she spent her days drinking and drinking and drinking until she couldn't remember the guilt, but her unconsious did, and she would lash out, sometimes violently but more often into a depressive break down. it had only been a week or so since the incident when her brother Pearson shows up, asking for her help, and she has no reason not to ablige.
