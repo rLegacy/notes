@@ -7,7 +7,7 @@
 | wis | 8 | 16 | 15 |
 | cha | 13 | 15 | 12 |
 
-# brandon
+# Brugah-Shah (Bru)
 str: 15
 dex: 13
 const: 12
@@ -15,7 +15,7 @@ int: 16
 wis: 8
 cha: 13
 
-# nate
+# Pearson Caruthers
 str: 12
 dex: 12
 const: 16
