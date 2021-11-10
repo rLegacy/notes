@@ -8,20 +8,22 @@
 | cha | 13 | 15 | 12 |
 
 # Brugah-Shah (Bru)
-str: 15
-dex: 13
-const: 12
-int: 16
-wis: 8
-cha: 13
+## attributes
+- str: 15
+- dex: 13
+- const: 12
+- int: 16
+- wis: 8
+- cha: 13
 
 # Pearson Caruthers
-str: 12
-dex: 12
-const: 16
-int: 13
-wis: 16
-cha: 15
+## attributes
+- str: 12
+- dex: 12
+- const: 16
+- int: 13
+- wis: 16
+- cha: 15
 
 # Penelope "Penny" Caruthers
 outlander ghostwise halfling ranger
