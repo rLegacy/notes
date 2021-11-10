@@ -28,6 +28,10 @@ outlander ghostwise halfling ranger
 
 halfling +2(dex)/+1(wis) -> +2(con)/+1(dex)
 
+Parents:
+- Paul
+- Pauladine
+
 Siblings:
 - Piper
 - Petunia
@@ -60,6 +64,11 @@ Siblings:
 - wanderer: 
     - You have an excellent memory for maps and geography, and you can always recall the general layout of terrain, settlements, and other features around you. 
     - you can find food and fresh water for yourself and up to five other people each day, provided that the land offers berries, small game, water, and so forth.
+- silent speech:
+    - You can speak telepathically to any creature within 30 feet of you. The creature understands you only if the two of you share a language. You can speak telepathically in this way to one creature at a time.
+- medium armor master:
+    - Wearing medium armor doesn't impose disadvantage on your Dexterity (Stealth) checks.
+    - When you wear medium armor, you can add 3, rather than 2, to your AC if you have a Dexterity of 16 or higher.
 
 ## proficiencies:
 - armor: 
@@ -87,10 +96,3 @@ Siblings:
 - two short swords (ask if can replace w/ circle "battle axe")
 - a dungeoneer's pack or explorer's pack
 - a longbow, quiver and 20 arrows
-
-## ghostwise:
-- You can speak telepathically to any creature within 30 feet of you. The creature understands you only if the two of you share a language. You can speak telepathically in this way to one creature at a time.
-
-## medium armor master:
-- Wearing medium armor doesn't impose disadvantage on your Dexterity (Stealth) checks.
-- When you wear medium armor, you can add 3, rather than 2, to your AC if you have a Dexterity of 16 or higher.
