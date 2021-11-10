@@ -90,11 +90,11 @@ halfling +2(dex)/+1(wis) -> +2(con)/+1(dex)
 ## equipment:
 - staff
 - hunting trap
-- trophy from an animal you killed (stag antlers)
 - set of traveler's clothes
 - pouch containing 10gp
 - scale mail
-- two short swords (ask if can replace w/ circle "battle axe")
+- trophy from an animal you killed (stag antlers)
+- two short swords (ask if can replace w/ circle "battle axe", say stag antlers were used to make the handle of a strange circular blade)
 - dungeoneer's pack or explorer's pack
 - longbow, quiver and 20 
 - dagger of whittling
