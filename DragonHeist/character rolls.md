@@ -28,6 +28,14 @@ outlander ghostwise halfling ranger
 
 halfling +2(dex)/+1(wis) -> +2(con)/+1(dex)
 
+Siblings:
+- Piper
+- Petunia
+- Perseus
+- Precious
+- Pascal
+- Pearson
+
 ## attributes
 - str: 17
 - dex: 15 + 1
