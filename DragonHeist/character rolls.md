@@ -75,8 +75,11 @@ halfling +2(dex)/+1(wis) -> +2(con)/+1(dex)
     - Perception (doubled prof bonus, canny)
     - Nature
     - Animal Handling
-- saving throws: str, dex
-- tools: flute
+- saving throws: 
+    - str
+    - dex
+- tools: 
+    - pan flute
 - languages: 
     - Common
     - Halfling
