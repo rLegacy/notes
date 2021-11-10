@@ -28,6 +28,8 @@ outlander ghostwise halfling ranger
 
 halfling +2(dex)/+1(wis) -> +2(con)/+1(dex)
 
+oldest of 7 siblings in a low class, working family, Penny was defacto parent for her first 28 some odd years of life. when the youngest was finally old enough to feed himself, she left for the woods, spending years at a time away from the civilized world.
+
 Parents:
 - Paul
 - Pauladine
