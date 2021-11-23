@@ -96,7 +96,7 @@ halfling +2(dex)/+1(wis) -> +2(con)/+1(dex)
 - trophy from an animal you killed (stag antlers)
 - two short swords (ask if can replace w/ circle "battle axe", say stag antlers were used to make the handle of a strange, deeply barbed, circular blade)
 - dungeoneer's pack or explorer's pack
-- longbow, quiver and 20 
+- longbow, quiver and 20 arrows
 - dagger of whittling
     - A finely made halfling dagger, once attuned to, this dagger can whittle one small object once per day without the use of it's master.
     - make güiro, arrow shafts, small things to sell, small wooden caltrops
