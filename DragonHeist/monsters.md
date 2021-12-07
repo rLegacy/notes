@@ -1,0 +1,7 @@
+- Troll
+    - [<img src="./assets/troll.jpg" height="100"/>](./assets/troll.jpg)
+    - ugly motherfucker with a carrot shaped nose
+    - had to be lit on fire to stop regeneration
+- Stirge
+    - [<img src="./assets/stirge.png" height="100"/>](./assets/stirge.png)
+    - bloodsucking bats, were attacking troll

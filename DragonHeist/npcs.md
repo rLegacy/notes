@@ -1,6 +1,8 @@
 - `Durnan`
+    - [<img src="./assets/durnan.png" height="100"/>](./assets/durnan.png)
     - human, fighter?, high level (4 attacks)
     - owner/operator of the `[yawning portal]`
+
 
 - `Yagra`
     - half-orc
@@ -9,10 +11,13 @@
     - get's assaulted by a bald guy with eye tattoos all over his head in the `[yawning portal]`
 
 - Volothemp "`Volo`" Geddarm
+    - [<img src="./assets/volo.png" height="100"/>](./assets/volo.png)
     - human
     - chronicler, wizard
     - minor celebrity
     - hired us to find his friend `Flune`
+    
+
 
 - `Flune`
     - human
