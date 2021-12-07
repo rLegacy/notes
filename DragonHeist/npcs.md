@@ -9,8 +9,10 @@
     - get's assaulted by a bald guy with eye tattoos all over his head in the `[yawning portal]`
 
 - Volothemp "`Volo`" Geddarm
+    - human
     - chronicler, wizard
-    - hires us to find his friend `Flune`
+    - minor celebrity
+    - hired us to find his friend `Flune`
 
 - `Flune`
     - human
