@@ -1,3 +1,4 @@
+# Neutral?
 - `Durnan`
     - [<img src="./assets/durnan.png" height="100"/>](./assets/durnan.png)
     - human, fighter?, high level (4 attacks)
@@ -16,8 +17,6 @@
     - chronicler, wizard
     - minor celebrity
     - hired us to find his friend `Flune`
-    
-
 
 - `Flune`
     - human
@@ -27,25 +26,30 @@
 - `Renaer Neverember`
     - upper class rich kid who was drinking with `flune` shortly before his disappearance
 
-- ## `Zhentarim`
-    shady guild of mercenaries
+# Guilds
+## `Zhentarim`
+shady guild of mercenaries
 
-    run by a group called the doomraiders who used to raid dooms (lich lairs)
+run by a group called the doomraiders who used to raid dooms (lich lairs)
 
-    currently a schism of sorts taking place, one sect is dead set on taking over the city
+currently a schism of sorts taking place, one sect is dead set on taking over the city
 
-    they own the `[skewer dragon]`
+they own the `[skewer dragon]`
 
-    `Pearson` got on the bad side of one of the sects
+`Pearson` got on the bad side of one of the sects
 
-    rumor has it they are feuding with the `Xanathar`, which explains the escalating violence
+rumor has it they are feuding with the `Xanathar`, which explains the escalating violence
 
-    - `Davil Starsong`
-        - elf, bard
-        - head of the `Zhentarim`
-        - likes `Pearson`
+- `Davil Starsong`
+    - elf, bard
+    - head of the `Zhentarim`
+    - likes `Pearson`
 
-- ## `Xanathar`
-    not a legally recognized guild, criminals
+---
 
-    rumor has it they are feuding with the `Zhentarim`, which explains the escalating violence
+## `Xanathar`
+not a legally recognized guild, criminals
+
+rumor has it they are feuding with the `Zhentarim`, which explains the escalating violence
+
+---
