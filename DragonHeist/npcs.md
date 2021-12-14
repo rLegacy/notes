@@ -34,7 +34,7 @@ run by a group called the doomraiders who used to raid dooms (lich lairs)
 
 currently a schism of sorts taking place, one sect is dead set on taking over the city
 
-they own the `[skewer dragon]`
+they own the `[Skewered dragon]`
 
 `Pearson` got on the bad side of one of the sects
 
@@ -49,6 +49,8 @@ rumor has it they are feuding with the `Xanathar`, which explains the escalating
 
 ## `Xanathar`
 not a legally recognized guild, criminals
+
+their mark is a black circle with 10 lines radiating out of it like a wheel
 
 rumor has it they are feuding with the `Zhentarim`, which explains the escalating violence
 

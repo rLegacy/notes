@@ -14,6 +14,6 @@
     - window display of a stuffed beholder
     - they sell some wild shit
     - ran by a hairless old gnome with cheeks decorated by 9 purple eyes
-- `[Skewer Dragon]`
+- `[SkeweredDragon]`
     - bar owned by the `Zhentarim`
     - smashed up entrances and an anchor lodged in the ceiling from a ship exploding nearby
