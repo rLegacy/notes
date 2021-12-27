@@ -9,6 +9,7 @@
     - liked by the leader, `Davil Starsong`
 - is a smooth operator
 - from the trades ward
+- wrestler in highschool
 # `Bru`
 - half-orc, fighter
 - has a friend named `Yagra`

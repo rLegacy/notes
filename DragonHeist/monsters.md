@@ -8,3 +8,13 @@
     - [<img src="./assets/stirge.png" height="100"/>](./assets/stirge.png)
     - bloodsucking bats, were attacking troll
     - came from the `[undermountain]`
+- Kenku
+    - [<img src="./assets/kenku.png" height="100"/>](./assets/kenku.png)
+    - short bird men with long beaks and black feathers
+    - can only repeat phrases they've heard
+- Gazer
+    - [<img src="./assets/gazer.png" height="100"/>](./assets/grazer.png)
+    - spherical grapefruit sized creature with 4 eye stalks and gnashing
+- Goblin
+    - [<img src="./assets/goblin.png" height="100"/>](./assets/goblin.png)
+    - They had flat faces, sloped back forehead, broad noses, pointed ears, and small, sharp fangs. and their eyes varied in color from red to yellow. Their skin color ranged from yellow through any shade of orange to a deep red, though they also came in shades of green. All members of the same tribe normally shared the same skin color

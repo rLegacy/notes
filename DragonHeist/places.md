@@ -1,6 +1,6 @@
 # Waterdeep
 - organized into a set of wards
-- policed by the city watch
+- policed by the `City Watch`
 - standing military is city guard and their famous griffon riders
 
 ## Trades Ward
