@@ -4,7 +4,6 @@
     - human, fighter?, high level (4 attacks)
     - owner/operator of the `[yawning portal]`
 
-
 - `Yagra`
     - half-orc
     - 7ft tall
@@ -16,15 +15,17 @@
     - human
     - chronicler, wizard
     - minor celebrity
-    - hired us to find his friend `Flune`
+    - hired us to find his friend `Flune Blagar`
+    - author of "Volo's Guide to Monsters"
 
-- `Flune`
+- `Flune Blagar`
     - human
     - very handsome, with wavy strawberry blonde hair
     - drinking buddy of `Volo`'s
 
 - `Renaer Neverember`
-    - upper class rich kid who was drinking with `flune` shortly before his disappearance
+    - [<img src="./assets/renaer.png" height="100"/>](./assets/renaer.png)
+    - upper class rich kid who was drinking with `Flune Blagar` shortly before his disappearance
     - son of `Dagult Neverember`
     - mid in terms of looks
     - rescued by us from the closet of warehouse
@@ -38,7 +39,7 @@
 
 # Guilds and Groups
 ## The `City Watch`
-[<img src="./assets/city_watch.png" height="100"/>](./assets/city_watch.png)\
+[<img src="./assets/city_watch.png" height="100"/>](./assets/city_watch.png)
 
 cops of the city
 
