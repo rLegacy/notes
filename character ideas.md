@@ -203,24 +203,6 @@ thieves’ tools and a dungeoneer’s pack
 
 # Fuck all that noise, "full" artificer
 DM's discretion, kobold seems like it would be busted
-## Race: Gnome
-- Ability Score Increase. Your Intelligence score increases by 2.
-- Age. Gnomes mature at the same rate as humans, and most are expected to settle into adult life around the age of 40. They can live to 350 years on average, but it's not too uncommon for them to reach 500 years of age.
-- Alignment. Gnomes are generally Good. Those who tend towards Law are sages, engineers, researchers, scholars, investigators, or inventors. Those who tend towards Chaos are often minstrels, tricksters, wanderers, or fanciful jewelers. Gnomes are light-hearted, and even the tricksters amongst them favor harmless pranks over vicious schemes.
-- Size. Gnomes are between 3 and 4 feet tall and weigh around 40 pounds. Your size is Small.
-- Speed. Your base walking speed is 25 feet.
-- Darkvision. Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
-- Gnome Cunning. You have advantage on all Intelligence, Wisdom, and Charisma saves against magic.
-- Languages. You can read, speak, and write Common and Gnomish.
-- Rock Gnome
-    - Ability Score Increase. Your Constitution score increases by 1.
-    - Artificer's Lore. Whenever you make an Intelligence (History) check related to magical, alchemical, or technological items, you can add twice your proficiency bonus instead of any other proficiency bonus that may apply.
-    - Tinker. You have proficiency with artisan tools (tinker's tools). Using those tools, you can spend 1 hour and 10 gp worth of materials to construct a Tiny clockwork device (AC 5, 1 hp). The device ceases to function after 24 hours (unless you spend 1 hour repairing it to keep the device functioning), or when you use your action to dismantle it; at that time, you can reclaim the materials used to create it. You can have up to three such devices active at a time. When you create a device, choose one of the following options:
-        - Clockwork Toy. This toy is a clockwork animal, monster, or person, such as a frog, mouse, bird, dragon, or soldier. When placed on the ground, the toy moves 5 feet across the ground on each of your turns in a random direction. It makes noises as appropriate to the creature it represents.
-        - Fire Starter. The device produces a miniature flame, which you can use to light a candle, torch, or campfire. Using the device requires your action.
-        - Music Box. When opened, this music box plays a single song at a moderate volume. The box stops playing when it reaches the song's end or when it is closed.
-        - At your DM's discretion, you may make other objects with effects similar in power to these. The Prestidigitation cantrip is a good baseline for such effects.
-
 ## Race Kobold
 - Ability Score Increase. Your Dexterity score increases by 2.
 - Age. Kobolds reach adulthood at age 6 and can live up to 120 years but rarely do so.
@@ -241,12 +223,15 @@ DM's discretion, kobold seems like it would be busted
 
 ## Stats at level 5
 ### Progression
-- lvl 1 fighter, take archery fighting style
+- lvl 1 fighter, take archery fighting style, we get second wind!
 - lvl 2-5 artificer
     - infusions
         - repeating shot
             - This magic weapon grants a + 1 bonus to attack and damage rolls made with it when it's used to make a ranged attack, and it ignores the loading property if it has it.
             - If you load no ammunition in the weapon, it produces its own, automatically creating one piece of magic ammunition when you make a ranged attack with it. The ammunition created by the weapon vanishes the instant after it hits or misses a target.
+        - enhanced defense (skip and boost someone else's weapon/focus)
+            - A creature gains a +1 bonus to Armor Class while wearing (armor) or wielding (shield) the infused item.
+            - The bonus increases to +2 when you reach 10th level in this class.
     - 4th level ASI: Sharpshooter
         - You have mastered ranged weapons and can make shots that others find impossible. You gain the following benefits:
             - Attacking at long range doesn't impose disadvantage on your ranged weapon attack rolls.
@@ -254,31 +239,60 @@ DM's discretion, kobold seems like it would be busted
             - Before you make an attack with a ranged weapon that you are proficient with, you can choose to take a -5 penalty to the attack roll. If that attack hits, you add +10 to the attack's damage.
 
 - attack roll 
-    - +2 (archery)
+    - +2 archery
     - +1 infusion
     - +3 proficiency
-    - +3 int
+    - +2 int
+    - advantage
 
 - AC
-    - +16-18 (heavy armour)
-    - +2 (shield)
-    - +1 (infusion)
+    - +16-18 heavy armour
+    - +2 shield
 
+(rolling would probably be better?)
 |  | STD |
 | - | - |
-| STR |  |
-| DEX |  |
-| CON | 15 + 1 |
-| INT | 14 + 2 |
-| WIS |  |
-| CHA |  |
+| STR | 8 |
+| DEX | 12 +2 |
+| CON | 14 |
+| INT | 15 |
+| WIS | 13 |
+| CHA | 10 |
+
+- lvl 6 (artificer 5)
+    - 2nd level spell slots
+    - extra attack
+    - Branding Smite, Warding Bond
+- lvl 7 (artificer 6)
+    - +1 infusion, give to party member or...
+        - repulsion shield
+            - A creature gains a +1 bonus to Armor Class while wielding this shield.
+            - The shield has 4 charges. While holding it, the wielder can use a reaction immediately after being hit by a melee attack to expend 1 of the shield's charges and push the attacker up to 15 feet away. The shield regains 1d4 expended charges daily at dawn.
+    - Tool Expertise
+        - At 6th level, your proficiency bonus is now doubled for any ability check you make that uses your proficiency with a tool.
+- lvl 8 (artificer 7)
+    - Flash of Genius
+        - At 7th level, you've gained the ability to come up with solutions under pressure. When you or another creature you can see within 30 feet of you makes an ability check or a saving throw, you can use your reaction to add your Intelligence modifier to the roll.
+        - You can use this feature a number of times equal to your Intelligence modifier (minimum of once). You regain all expended uses when you finish a long rest.
+- lvl 9 (artificer 8)
+    - ASI int 15 -> 17 (maybe half feat? telekinetic w/ mage hand!!)
+        - maybe just pump con and use headband of intellect @ lvl 11, buffing allies probably better
+- lvl 10 (artificer 9)
+    - 3rd level spell slots
+    - Arcane Jolt
+        - At 9th level, you've learn new ways to channel arcane energy to harm or heal. When either you hit a target with a magic weapon attack or your steel defender hits a target, you can channel magical energy through the strike to create one of the following effects:
+            - The target takes an extra 2d6 force damage.
+            - Choose one creature or object you can see within 30 feet of the target. Healing energy flows into the chosen recipient, restoring 2d6 hit points to it.
+            - You can use this energy a number of times equal to your Intelligence modifier (minimum of once), but you can do so no more than once on a turn. You regain all expended uses when you finish a long rest.
+- lvl 11 (artificer 10)
+    - +1 infusion
+
 
 
 ## Fighter (1)
 - Hit Points
     - Hit Dice: 1d10 per fighter level
     - Hit Points at 1st Level: 10 + your Constitution modifier
-    - Hit Points at Higher Levels: 1d10 (or 6) + your Constitution modifier per fighter level after 1st
 - Proficiencies
     - Armor: All armor, shields
     - Weapons: Simple weapons, martial weapons
