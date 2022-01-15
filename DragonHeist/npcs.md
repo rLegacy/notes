@@ -9,6 +9,7 @@
     - 7ft tall
     - friend of `bru`'s
     - get's assaulted by a bald guy with eye tattoos all over his head in the `[yawning portal]`
+    - smitten w/ `bru`
 
 - Volothemp "`Volo`" Geddarm
     - [<img src="./assets/volo.png" height="100"/>](./assets/volo.png)
@@ -65,7 +66,6 @@ black tattoo of a snake on forearm is their symbol
     - elf, bard
     - head of the `Zhentarim`
     - likes `Pearson`
-
 ---
 
 ## `Xanathar`
