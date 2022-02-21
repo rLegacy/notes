@@ -19,4 +19,8 @@
 - a cult of theirs runs the abbey on `[Abbey Isle]`
 - followers have gold rimmed eyes
 ## War - `Baphomet`
+- brand new the council
+- never been on the high table before
+- The Horned King of the Endless Maze
+- He has risen at the behest of his new lover: The Bitch Queen, Umberlee
 ## Trickery - `Mask`
