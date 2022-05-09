@@ -368,3 +368,6 @@ DM's discretion, kobold seems like it would be busted
     - If the Mending spell is cast on it, it regains 2d6 hit points. If it has died within the last hour, you can use your smith's tools as an action to revive it, provided you are within 5 feet of it and you expend a spell slot of 1st level or higher. The steel defender returns to life after 1 minute with all its hit points restored.
     - At the end of a long rest, you can create a new steel defender if you have smith's tools with you. If you already have a defender from this feature, the first one immediately perishes. The defender also perishes if you die.
     - [<img src="./steel_defender.png" height="500"/>](./steel_defender.png)
+
+- person who just charms people, thats it
+- monk that punches people to heal them

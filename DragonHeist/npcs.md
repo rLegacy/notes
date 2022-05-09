@@ -37,6 +37,7 @@
     - a very ambitious man who married into quite a bit of money
     - his terrible ineptitude and violent tendencies led him to conspire against other court leaders and partner with the violent
     - “The `Zhentarim` thinks that my father embezzled a large amount of gold while he was Open Lord, and that he hid the dragons somewhere in the city. They think they can find it by using an artifact called the Stone of Golorr, which was in the hands of the Xanathar Guild until recently. Apparently, someone stole it. The Zhents thought I knew something about all of this, but I don't. My father and I haven't spoken in years.” -- `Ranaer Neverember`
+    - lord of neverwinter now
 
 # Guilds and Groups
 ## The `City Watch`
