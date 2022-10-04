@@ -1,3 +1,31 @@
+# Artillerist with a 2 level warlock dip
+- Race: Variant Human
+    - 2x +1 ability score
+    - +1 proficiency in a skill
+    - +1 feat (actor)
+        - Increase your Charisma score by 1, to a maximum of 20.
+        - You have an advantage on Charisma (Deception) and Charisma (Performance) checks when trying to pass yourself off as a different person.
+        - You can mimic the speech of another person or the sounds made by other creatures. You must have heard the person speaking, or heard the creature make the sound, for at least 1 minute. A successful Wisdom (Insight) check contested by your Charisma (Deception) check allows a listener to determine that the effect is faked.
+- Background: Urban Bounty Hunter
+    - prof in deception & persuasion
+- Stats
+    - STR: 8
+    - DEX: 14
+    - CON: 14
+    - INT: 15 + 1 (stats)
+    - WIS: 8
+    - CHA: 12 + 1 (actor) + 1 (stats)
+- first 3 levels in artificer to get to artillerist
+- next 2 levels in warlock
+
+- Spell Slots
+    - Artificer
+        - 1: 3
+    - Warlock
+        - 1: 2
+
+
+
 # Mounted Artificer/Bladesinger
 
 ## Race: Gnome
