@@ -24,6 +24,9 @@
     - Warlock
         - 1: 2
 
+## Levels
+1: Artificer (1)
+-
 
 
 # Mounted Artificer/Bladesinger
