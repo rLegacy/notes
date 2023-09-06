@@ -1,0 +1,64 @@
+# Base Stats
+- Feat: [Eldritch Adept](http://dnd5e.wikidot.com/feat:eldritch-adept): [Armor of Shadows](http://dnd5e.wikidot.com/warlock:eldritch-invocations#toc1)
+    - made a deal with X to save him from Y
+        - source of his burgeoning magical powers, which drew him to study magic, first figuring out the physical machinations with basic artificing, and then a deeper understanding in wizardry
+- Race: [Mark of Warding Dwarf](http://dnd5e.wikidot.com/dwarf#toc4)
+    - +2 con, +1 int
+    - Age: 20
+    - Size: Dwarves stand between 4 and 5 feet tall and average about 150 pounds. Your size is Medium.
+    - Speed: Your base walking speed is 25 feet. Your speed is not reduced by wearing heavy armor.
+    - Darkvision: Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
+    - Dwarven Resilience: You have advantage on saving throws against poison, and you have resistance against poison damage.
+    - Dwarven Combat Training: You have proficiency with the battleaxe, handaxe, light hammer, and warhammer.
+    - Tool Proficiency: You gain proficiency with the artisan's tools of your choice: smith's tools, brewer's supplies, or mason's tools.
+    - Stonecunning: Whenever you make an Intelligence (History) check related to the origin of stonework, you are considered proficient in the History skill and add double your proficiency bonus to the check, instead of your normal proficiency bonus.
+    - Languages: You can speak, read, and write Common and Dwarvish. Dwarvish is full of hard consonants and guttural sounds, and those characteristics spill over into whatever other language a dwarf might speak.
+    - Warder's Intuition: Whenever you make an Intelligence (Investigation) check or an Ability Check involving Thieve's Tools, you can roll a d4 and add the number rolled to the total ability check.
+    - Wards and Seals: You can cast the Alarm and Mage Armor spells with this trait. Starting at 3rd level, you can also cast the Arcane Lock spell with it. Once you cast either spell with this trait, you can't cast that spell again until you finish a Long Rest. Intelligence is your Spellcasting Ability for these spells, and you don't require material components when you cast them with this trait.
+    - Spells Known
+        - 1st 	Alarm, Armor of Agathys
+        - 2nd 	Arcane Lock, Knock
+        - 3rd 	Glyph of Warding, Magic Circle
+        - 4th 	Leomund's Secret Chest, Mordenkainen's Faithful Hound
+        - 5th 	Antilife Shell
+
+# Class Progression
+### Lvl 1 [Artificer](http://dnd5e.wikidot.com/artificer) 1
+- HP: 8 + con
+- Proficiencies
+    - Armor: Light armor, medium armor, shields
+    - Weapons: Simple weapons
+    - Tools: Thieves’ tools, tinker’s tools, one type of artisan’s tools of your choice
+    - Saving Throws: Constitution, Intelligence
+    - Skills: Choose two from Arcana, History, Investigation, Medicine, Nature, Perception, Sleight of Hand
+- Magical Tinkering
+    - At 1st level, you've learned how to invest a spark of magic into mundane objects. To use this ability, you must have thieves' tools or artisan's tools in hand. You then touch a Tiny nonmagical object as an action and give it one of the following magical properties of your choice:
+        - The object sheds bright light in a 5-foot radius and dim light for an additional 5 feet.
+        - Whenever tapped by a creature, the object emits a recorded message that can be heard up to 10 feet away. You utter the message when you bestow this property on the object, and the recording can be no more than 6 seconds long.
+        - The object continuously emits your choice of an odor or a nonverbal sound (wind, waves, chirping, or the like). The chosen phenomenon is perceivable up to 10 feet away.
+        - A static visual effect appears on one of the object's surfaces. This effect can be a picture, up to 25 words of text, lines and shapes, or a mixture of these elements, as you like.
+    - The chosen property lasts indefinitely. As an action, you can touch the object and end the property early.
+    - You can bestow magic on multiple objects, touching one object each time you use this feature, though a single object can only bear one property at a time. The maximum number of objects you can affect with this feature at one time is equal to your Intelligence modifier (minimum of one object). If you try to exceed your maximum, the oldest property immediately ends, and then the new property applies.
+- [Spellcasting](http://dnd5e.wikidot.com/spells:artificer)
+    - 2 cantrips
+        - Resistance
+        - Guidance
+    - int mod spells
+        - Cure Wounds
+        - Faerie Fire
+        - Sanctuary
+
+### Lvl 2 [Wizard](http://dnd5e.wikidot.com/wizard) 1
+- hp: 4 + con each level
+- [Spellcasting](http://dnd5e.wikidot.com/spells:wizard)
+    - 3 cantrips
+        - Mind Sliver
+        - Booming Blade
+        - Prestidigitation
+    - 6 lvl 1 spells
+        - Shield
+        - Absorb Elements
+        - Magic Missile
+        - Sleep
+        - Burning Hands
+        - Tasha's Hideous Laughter
