@@ -1,4 +1,4 @@
-# Base Stats
+# Base Features
 - Feat: [Eldritch Adept](http://dnd5e.wikidot.com/feat:eldritch-adept): [Armor of Shadows](http://dnd5e.wikidot.com/warlock:eldritch-invocations#toc1)
     - made a deal with X to save him from Y
         - source of his burgeoning magical powers, which drew him to study magic, first figuring out the physical machinations with basic artificing, and then a deeper understanding in wizardry
@@ -22,9 +22,19 @@
         - 4th 	Leomund's Secret Chest, Mordenkainen's Faithful Hound
         - 5th 	Antilife Shell
 
+# Stats
+- str: 8
+- dex: 14
+- con: 14 + 2
+- int: 15 + 1
+- wis: 12
+- cha: 8
+
+- arcane recovery scales one level slower than spell slots (with spells known/prepared)
+
 # Class Progression
 ### Lvl 1 [Artificer](http://dnd5e.wikidot.com/artificer) 1
-- HP: 8 + con
+- AC: 18 HP: 11, 5
 - Proficiencies
     - Armor: Light armor, medium armor, shields
     - Weapons: Simple weapons
@@ -32,29 +42,23 @@
     - Saving Throws: Constitution, Intelligence
     - Skills: Choose two from Arcana, History, Investigation, Medicine, Nature, Perception, Sleight of Hand
 - Magical Tinkering
-    - At 1st level, you've learned how to invest a spark of magic into mundane objects. To use this ability, you must have thieves' tools or artisan's tools in hand. You then touch a Tiny nonmagical object as an action and give it one of the following magical properties of your choice:
-        - The object sheds bright light in a 5-foot radius and dim light for an additional 5 feet.
-        - Whenever tapped by a creature, the object emits a recorded message that can be heard up to 10 feet away. You utter the message when you bestow this property on the object, and the recording can be no more than 6 seconds long.
-        - The object continuously emits your choice of an odor or a nonverbal sound (wind, waves, chirping, or the like). The chosen phenomenon is perceivable up to 10 feet away.
-        - A static visual effect appears on one of the object's surfaces. This effect can be a picture, up to 25 words of text, lines and shapes, or a mixture of these elements, as you like.
-    - The chosen property lasts indefinitely. As an action, you can touch the object and end the property early.
-    - You can bestow magic on multiple objects, touching one object each time you use this feature, though a single object can only bear one property at a time. The maximum number of objects you can affect with this feature at one time is equal to your Intelligence modifier (minimum of one object). If you try to exceed your maximum, the oldest property immediately ends, and then the new property applies.
 - [Spellcasting](http://dnd5e.wikidot.com/spells:artificer)
     - 2 cantrips
-        - Resistance
+        - Magic Stone
         - Guidance
     - int mod spells
         - Cure Wounds
         - Faerie Fire
         - Sanctuary
+    - +2 lvl 1 slots
 
 ### Lvl 2 [Wizard](http://dnd5e.wikidot.com/wizard) 1
-- hp: 4 + con each level
+- HP: 18, 5
 - [Spellcasting](http://dnd5e.wikidot.com/spells:wizard)
     - 3 cantrips
-        - Mind Sliver
+        - Sword Burst
         - Booming Blade
-        - Prestidigitation
+        - Blade Ward
     - 6 lvl 1 spells
         - Shield
         - Absorb Elements
@@ -62,3 +66,63 @@
         - Sleep
         - Burning Hands
         - Tasha's Hideous Laughter
+    - +1 lvl 1 slot
+- AR 1
+
+### Lvl 3 [Wizard](http://dnd5e.wikidot.com/wizard) 2
+- HP: 25, 10, 7
+- +1 lvl 1 slot, +2 lvl 2 slots 
+
+### Lvl 4 [Wizard](http://dnd5e.wikidot.com/wizard) 3
+- HP: 32, 10, 9
+- +1 lvl 2 slot
+- AR 2
+
+### Lvl 5 [Wizard](http://dnd5e.wikidot.com/wizard) 4
+- HP: 39, 15, 11
+- Warcaster
+- +1 cantrip
+    - Mind Sliver
+- +2 lvl 3 slots
+    - tiny servant comes online woopah
+
+### Lvl 6 [Wizard](http://dnd5e.wikidot.com/wizard) 5
+- HP: 46, 15, 13
+- +1 lvl 3 slot
+- AR 3
+
+### Lvl 7 [Wizard](http://dnd5e.wikidot.com/wizard) 6
+- HP: 53, 20, 15
+- +1 lvl 4 slot
+    - 3 tiny servants comes online opah!
+
+### Lvl 8 [Wizard](http://dnd5e.wikidot.com/wizard) 7
+- HP: 60, 20, 17
+- +1 lvl 4 slot
+- AR 4
+
+### Lvl 9 [Wizard](http://dnd5e.wikidot.com/wizard) 8
+- HP: 67, 25, 20
+- ASI: int to 18
+    - +1 artificer spell prepared
+    - +1 extra wizard spell prepared
+- +1 lvl 4 slot, +1 lvl 5 slot
+
+### Lvl 10 [Wizard](http://dnd5e.wikidot.com/wizard) 9
+- HP: 74, 25, 22
+- +1 lvl 5 slot
+- AR 5
+
+### Lvl 11 [Wizard](http://dnd5e.wikidot.com/wizard) 10
+- HP: 81, 30, 24
+- +1 lvl 6 slot
+- +1 cantrip
+
+### Lvl 12 [Wizard](http://dnd5e.wikidot.com/wizard) 11
+- HP: 88, 30, 26
+- AR 6
+
+### Lvl 13 [Wizard](http://dnd5e.wikidot.com/wizard) 12
+- HP: 95, 35, 29
+- ASI: int to 20
+- +1 lvl 7 slot
