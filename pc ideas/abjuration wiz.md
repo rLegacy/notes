@@ -1,7 +1,7 @@
 # Base Features
 - Feat: [Eldritch Adept](http://dnd5e.wikidot.com/feat:eldritch-adept): [Armor of Shadows](http://dnd5e.wikidot.com/warlock:eldritch-invocations#toc1)
     - made a deal with X to save him from Y
-        - source of his burgeoning magical powers, which drew him to study magic, first figuring out the physical machinations with basic artificing, and then a deeper understanding in wizardry
+        - the bond between him and archimedes
 - Race: [Mark of Warding Dwarf](http://dnd5e.wikidot.com/dwarf#toc4)
     - +2 con, +1 int
     - Age: 20
@@ -46,9 +46,9 @@
     - 2 cantrips
         - Magic Stone
         - Guidance
-    - int mod spells
+    - int mod spells (these are prepared, not learned!)
         - Cure Wounds
-        - Faerie Fire
+        - Feather Fall
         - Sanctuary
     - +2 lvl 1 slots
 
@@ -63,43 +63,60 @@
         - Shield
         - Absorb Elements
         - Magic Missile
-        - Sleep
+        - Find Familiar
+        - Unseen Servant
         - Burning Hands
-        - Tasha's Hideous Laughter
     - +1 lvl 1 slot
-- AR 1
+    - AR 1
 
 ### Lvl 3 [Wizard](http://dnd5e.wikidot.com/wizard) 2
 - HP: 25, 10, 7
-- +1 lvl 1 slot, +2 lvl 2 slots 
+- Spells
+    - +1 lvl 1 slot, +2 lvl 2 slots
+    - Comprehend Languages
+    - Detect Magic
 
 ### Lvl 4 [Wizard](http://dnd5e.wikidot.com/wizard) 3
 - HP: 32, 10, 9
-- +1 lvl 2 slot
-- AR 2
+- Spells
+    - +1 lvl 2 slot
+    - Misty Step
+    - Warding Wind
+    - AR 2
 
 ### Lvl 5 [Wizard](http://dnd5e.wikidot.com/wizard) 4
 - HP: 39, 15, 11
 - Warcaster
-- +1 cantrip
-    - Mind Sliver
-- +2 lvl 3 slots
-    - tiny servant comes online woopah
+- Spells
+    - +1 cantrip
+        - Mind Sliver
+    - +2 lvl 3 slots
+    - Web
+    - Invisibility
 
 ### Lvl 6 [Wizard](http://dnd5e.wikidot.com/wizard) 5
 - HP: 46, 15, 13
-- +1 lvl 3 slot
+- Spells
+    - +1 lvl 3 slot
+    - tiny servant
+    - fireball
 - AR 3
 
 ### Lvl 7 [Wizard](http://dnd5e.wikidot.com/wizard) 6
 - HP: 53, 20, 15
-- +1 lvl 4 slot
+- Spells
+    - +1 lvl 4 slot
     - 3 tiny servants comes online opah!
+    - summon fey
+    - 
 
 ### Lvl 8 [Wizard](http://dnd5e.wikidot.com/wizard) 7
 - HP: 60, 20, 17
-- +1 lvl 4 slot
-- AR 4
+- Spells
+    - +1 lvl 4 slot
+    - 
+    - 
+    - AR 4
 
 ### Lvl 9 [Wizard](http://dnd5e.wikidot.com/wizard) 8
 - HP: 67, 25, 20
@@ -126,3 +143,8 @@
 - HP: 95, 35, 29
 - ASI: int to 20
 - +1 lvl 7 slot
+
+# Backstory
+- Merlin & Archimedes: In ancient times these two were the greatest wizards to ever roam the lands. Both determined to ascend to godhood and achieve immortality, they took two different paths to the same goal. Archimedes went the direct route, ascending in a few short centuries, where Merlin devised a plan to make his soul immortal; ensuring he would always reincarnate into another body after death. Archimedes has followed Merlin on this journey over countless lifetimes. After a few disastrous attempts at guiding these reincarnations, Archimedes has resigned himself to a more passive approach, befriending the countless reincarnations of his long lost best friend.
+
+Enter Cornelius Dogene, a young? old? idk... dwarf, descendant of a legendary artificer, and on the path of wizardry merlin took all those millenia ago. Archimedes saves him from X (context specific danger) and they are bonded, Archimdedes taking his classic owl form as Cornelius' familiar.
