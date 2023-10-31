@@ -46,10 +46,11 @@
     - 2 cantrips
         - Magic Stone
         - Guidance
-    - int mod spells (these are prepared, not learned!)
+    - int mod spells + 1 (these are prepared, not learned!)
         - Cure Wounds
-        - Feather Fall
+        - Armor of Agathys
         - Sanctuary
+        - Detect Magic
     - +2 lvl 1 slots
 
 ### Lvl 2 [Wizard](http://dnd5e.wikidot.com/wizard) 1
@@ -58,7 +59,7 @@
     - 3 cantrips
         - Sword Burst
         - Booming Blade
-        - Blade Ward
+        - Prestidigitation
     - 6 lvl 1 spells
         - Shield
         - Absorb Elements
@@ -73,8 +74,8 @@
 - HP: 25, 10, 7
 - Spells
     - +1 lvl 1 slot, +2 lvl 2 slots
+    - Fog Cloud
     - Comprehend Languages
-    - Detect Magic
 
 ### Lvl 4 [Wizard](http://dnd5e.wikidot.com/wizard) 3
 - HP: 32, 10, 9
@@ -89,7 +90,7 @@
 - Warcaster
 - Spells
     - +1 cantrip
-        - Mind Sliver
+        - Blade Ward? Mind Sliver?
     - +2 lvl 3 slots
     - Web
     - Invisibility
