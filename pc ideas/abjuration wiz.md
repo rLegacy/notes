@@ -32,6 +32,79 @@
 
 - arcane recovery scales one level slower than spell slots (with spells known/prepared)
 
+# Spell Wishlist
+- lvl 1
+    - gift of alacrity
+    - alarm
+    - detect magic
+    - protection from evil and good
+    - distort value
+    - feather fall
+- lvl 2
+    - misty step
+    - web
+    - warding wind
+    - augury
+
+    - earthbind
+    - jim's glowing coin (if we sneaking)
+    - kinetic jaunt
+    - hold person
+    - knock
+    - maximilian’s earthen grasp
+    - see invisibility
+    - suggestion
+- lvl 3 
+    - counterspell
+    - fireball
+    - tiny servant
+    - hypnotic pattern
+
+    - summon fey
+    - dispel magic
+    - ashardalon's stride
+    - tiny hut
+    - haste
+    - bestow curse
+    - enemies abound
+    - fear
+    - fly
+    - gaseous form
+    - glyph of warding
+    - protection from energy
+    - sending
+    - tongues
+- lvl 4
+    - banishment
+    - fire shield
+    - greater invisibility
+    - otiluke’s resilient sphere
+    - phantasmal killer
+    - polymorph
+    - sickening radiance
+    - stone shape
+    - stoneskin
+    - wall of fire
+- lvl 5
+    - bigby's hand
+    - hold monster
+    - modify memory
+    - Rary's Telepathic Bond
+    - scrying
+    - steel wind strike
+    - synaptic static
+    - telekenesis
+- lvl 6
+    - disintegrate
+    - fizbans platinum shield
+    - eyebite
+    - globe of invulnerability
+    - true seeing
+- lvl 7
+    - crown of stars
+    - draconic transformation
+    - teleport
+
 # Class Progression
 ### Lvl 1 [Artificer](http://dnd5e.wikidot.com/artificer) 1
 - AC: 18 HP: 11, 5
@@ -82,7 +155,7 @@
 - Spells
     - +1 lvl 2 slot
     - Misty Step
-    - Warding Wind
+    - warding wind
     - AR 2
 
 ### Lvl 5 [Wizard](http://dnd5e.wikidot.com/wizard) 4
@@ -92,15 +165,13 @@
     - +1 cantrip
         - Blade Ward? Mind Sliver?
     - +2 lvl 3 slots
-    - Web
-    - Invisibility
+    - web
+    - ?
 
 ### Lvl 6 [Wizard](http://dnd5e.wikidot.com/wizard) 5
 - HP: 46, 15, 13
 - Spells
     - +1 lvl 3 slot
-    - tiny servant
-    - fireball
 - AR 3
 
 ### Lvl 7 [Wizard](http://dnd5e.wikidot.com/wizard) 6
@@ -108,15 +179,11 @@
 - Spells
     - +1 lvl 4 slot
     - 3 tiny servants comes online opah!
-    - summon fey
-    - 
 
 ### Lvl 8 [Wizard](http://dnd5e.wikidot.com/wizard) 7
 - HP: 60, 20, 17
 - Spells
-    - +1 lvl 4 slot
-    - 
-    - 
+    - +1 lvl 4 slot\
     - AR 4
 
 ### Lvl 9 [Wizard](http://dnd5e.wikidot.com/wizard) 8
