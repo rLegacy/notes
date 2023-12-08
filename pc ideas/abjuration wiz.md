@@ -32,16 +32,20 @@
 
 - arcane recovery scales one level slower than spell slots (with spells known/prepared)
 
+- Burning Hands, detect magic, ray of sickness, shield
+- Darkness, Misty Step, Scorching Ray
+- Animate Dead, Fireball
+
 # Spell Wishlist
 - lvl 1
     - gift of alacrity
     - alarm
-    - detect magic
+    - detect magic (spell book 50gp, 2hr) [A]
     - protection from evil and good
     - distort value
-    - feather fall
+    - feather fall [A]
 - lvl 2
-    - misty step
+    - misty step (spell book 100gp, 4hrs)
     - web
     - warding wind
     - augury
@@ -50,13 +54,12 @@
     - jim's glowing coin (if we sneaking)
     - kinetic jaunt
     - hold person
-    - knock
     - maximilian’s earthen grasp
     - see invisibility
     - suggestion
 - lvl 3 
     - counterspell
-    - fireball
+    - fireball (spell book 150gp, 6hrs)
     - tiny servant
     - hypnotic pattern
 
@@ -154,8 +157,6 @@
 - HP: 32, 10, 9
 - Spells
     - +1 lvl 2 slot
-    - Misty Step
-    - warding wind
     - AR 2
 
 ### Lvl 5 [Wizard](http://dnd5e.wikidot.com/wizard) 4
@@ -165,8 +166,6 @@
     - +1 cantrip
         - Blade Ward? Mind Sliver?
     - +2 lvl 3 slots
-    - web
-    - ?
 
 ### Lvl 6 [Wizard](http://dnd5e.wikidot.com/wizard) 5
 - HP: 46, 15, 13
