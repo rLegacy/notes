@@ -48,26 +48,28 @@
     - misty step (spell book 100gp, 4hrs)
     - web
     - warding wind
+
+    - mind whip
     - augury
+    - hold person
 
     - earthbind
     - jim's glowing coin (if we sneaking)
     - kinetic jaunt
-    - hold person
     - maximilian’s earthen grasp
     - see invisibility
     - suggestion
-- lvl 3 
+- lvl 3
     - counterspell
+    - slow
     - fireball (spell book 150gp, 6hrs)
-    - tiny servant
-    - hypnotic pattern
-
     - summon fey
-    - dispel magic
+    - tiny servant
+
     - ashardalon's stride
+
+    - dispel magic
     - tiny hut
-    - haste
     - bestow curse
     - enemies abound
     - fear
@@ -182,7 +184,7 @@
 ### Lvl 8 [Wizard](http://dnd5e.wikidot.com/wizard) 7
 - HP: 60, 20, 17
 - Spells
-    - +1 lvl 4 slot\
+    - +1 lvl 4 slot
     - AR 4
 
 ### Lvl 9 [Wizard](http://dnd5e.wikidot.com/wizard) 8
