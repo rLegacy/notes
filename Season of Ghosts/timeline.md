@@ -1,0 +1,26 @@
+# what's been going on?
+(subtract 2500 years to convert to golarian time)
+- 7020: (88 years ago)
+    - `[Tan Sugi Monastery]` was founded by a Sangpotshi monk named `Zhi Hui`. Built around an ancient sugi tree said to have mystic properties, the Tan Sugi Monastery was incredibly remote, nestled in a wooded valley within an unsettled reach of Specterwood.
+    - `[Willowshore]` was originally founded to support those who built the monastery, and the long trail that connected the town to the monastery became known as the Pilgrim’s Path. Once construction of the monastery ended, `[Willowshore]`’s focus shifted to an increasingly self-sufficient lifestyle that only periodically needed to support the monks.
+- 70??: `Zhi Hui` gifts the eternal lantern to `[Willowshore]`
+- 7054: `Zhi Hui` passes away
+- 7060: Monastery is completely abandoned
+- 7062: Night of Broken Blades
+    - lumber workers try to cut down sacred trees and get got, returning as undead with broken weapons who the town had to fight off
+- 70??
+    - `[Willowshore]` enlisted in the `[Shenmen]`/`(Lung Wa)` lumber industry
+    - `[Willowshore]` locals exploited and areas gentrified by lumber bosses
+    - `[Willowshore]` reaches town status and is given second lantern
+        - due to baby boom from dope brothel
+- 7103: `[Thrice Blessed Brothel]` -> `[Thrice Blessed Inn]`
+- 7106: Age of Lost Omens
+    - `(Lung Wa)` collapses
+    - Lumber bosses flee w/ most of town's wealth
+    - Soldiers return to cities and abandon their posts
+    - Brutal winter is very deadly
+- 7107: Much milder winter
+- 7108: (modern)
+    - Monastery is now abandoned and in ruins, believed to be cursed
+    - `[Shenmen]` is rampant w/ political conflict under `(Jorogumo)`, *spider people*, control
+    - Worried about upcoming winter

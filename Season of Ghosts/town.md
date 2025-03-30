@@ -1,6 +1,6 @@
 ## WILLOWSHORE SETTLEMENT (4) 
 [N] [TOWN]
-- Isolated lumber town
+- Isolated lumber town of Shenmen
 - Governor: `Heh Shan-Bao`
 - Population 225
     - 73% humans
@@ -63,7 +63,7 @@ One of `(Lung Wa)`’s chief concerns when they first expanded into Willowshore 
 - Wares: consumable religious items, divine scrolls
 
 ### `[Dawnstep Bridge]` (W11)
-After the `[Thrice-Blessed Brothel]` was established (but before it became an inn), Willowshore’s population had grown enough in size to be considered a town by `(Shenmen)` standards, meaning that a lit lantern must be maintained at all times within the town near the entrance, at a major crossroads, or at a bridge. The lack of a lit lantern at one of these locations suggests that the town is abandoned, which is believed to invite vermin, ghosts, dangerous beasts, and worse. Today, Willowshore features two such lanterns, but the one that stands here, the Eternal Lantern, is both its oldest and most notable.
+After the `[Thrice-Blessed Brothel]` was established (but before it became an inn), Willowshore’s population had grown enough in size to be considered a town by `[Shenmen]` standards, meaning that a lit lantern must be maintained at all times within the town near the entrance, at a major crossroads, or at a bridge. The lack of a lit lantern at one of these locations suggests that the town is abandoned, which is believed to invite vermin, ghosts, dangerous beasts, and worse. Today, Willowshore features two such lanterns, but the one that stands here, the Eternal Lantern, is both its oldest and most notable.
 
 ### `[Industrial District]` (W12)
 Willowshore’s `(Lung Wa)` lumber bosses had a host of other businesses related to materials taken from the woods. Many industrial workers came to Willowshore explicitly for this work, leaving family and friends behind. After the lumber bosses left, `Governor Heh` seized control and ordered the laborers to continue working. Upset that they had no choice in the matter, they’ve been gathering late at night under the guidance of `Kawaka` *(male tengu guild leader)*, a senior bookmaker, to discuss how they should negotiate with the governor to release those who want to leave and fairly pay those who elect to stay.
