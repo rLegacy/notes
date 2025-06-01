@@ -97,7 +97,7 @@ When `Huo Tian-Zhe` *(male human inventor)* arrived in Willowshore with his blac
 - Wares: adventuring tools, alchemical ammunition, alchemical bombs, clockwork gadgets, and simple armor, metal weapons, and shields
 
 ### `[The Hand of Spring]` (W19)
-Willowshore relied heavily on home remedies, herbal droughts, and traveling priests for medical care until the arrival of `Doctor Damihansig Mababangloob` *(male human doctor)*, whom everyone calls Dami for short. Dami uses a mix of acupuncture, purified chemicals, and surgery to provide care. Though his treatments aren’t what Willowshore is used to, Dami has developed quite a reputation for being a charitable doctor who cares more about his patients than monetary gain.
+Willowshore relied heavily on home remedies, herbal droughts, and traveling priests for medical care until the arrival of `Doctor Damihansig Mababangloob`, `dr Dami`, *(male human doctor)*, whom everyone calls Dami for short. Dami uses a mix of acupuncture, purified chemicals, and surgery to provide care. Though his treatments aren’t what Willowshore is used to, Dami has developed quite a reputation for being a charitable doctor who cares more about his patients than monetary gain.
 - Wares: alchemical healing items, healer’s kit supplies, nonmagical healing items
 
 ### `[Mother’s Coil]` (W20)
@@ -108,7 +108,7 @@ Though curious about magic, most villagers find the topic to be formidable and u
 Jubei has since grown into a capable young adult. While Anjal’s death last year was tragic, Jubei is determined to continue studying the arcane arts through the books her adopted parent left behind.
 - Wares: arcane and occult scrolls, formulas and recipes, wands
 
-### `[The Ceiba-Duyue Exchange]` (W21)
+### `[The Ceiba-Duyue Exchange]`, `CD Exchange` (W21)
 When `Governor Heh Shan-Bao` took office in Willowshore, he ordered several new warehouses and a trade office to be built here, hoping to expand the town’s industry and connection with the coastal fortress of Karahai. On `Granny Hu`’s advice, Shan-Bao handpicked the local `*Kofusachi*` priest, `Kim Gu-won` *(male human cleric)*, to take the post of Exchange Manager. Gu-won reluctantly accepted the job, knowing that with what Granny Hu has on him, he wouldn’t be able to refuse.
 - Wares: beverages, divine scrolls, foods and spices, fulus, raw mineral, textiles
 
