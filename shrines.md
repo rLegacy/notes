@@ -10,3 +10,6 @@
 - desna
     - survival
     - scouting lore
+- bones of the forgotten (graveyard)
+    - intimidation
+ 
